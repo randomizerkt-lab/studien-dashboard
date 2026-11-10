@@ -466,7 +466,7 @@
           "titel": "Softwarearchitektur mobiler Geräte",
           "pruefungsleistungen": [
             {
-              "pruefungsform": "NICHT_ERFASST",
+              "pruefungsform": "KLAUSUR",
               "ects_anteil": 5,
               "status": "EINGEREICHT",
               "note": null,

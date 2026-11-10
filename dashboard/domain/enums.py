@@ -25,6 +25,7 @@ class Pruefungsform(Enum):
     HAUSARBEIT = "Hausarbeit"
     SEMINARARBEIT = "Seminararbeit"
     FACHPRAESENTATION = "Fachpräsentation"
+    PROJEKTPRAESENTATION = "Projektpräsentation"
     WORKBOOK = "Workbook"
     BACHELORARBEIT = "Bachelorarbeit"
     KOLLOQUIUM = "Kolloquium"

@@ -127,6 +127,8 @@ class DashboardView:
         self._zeit_unterzeile.pack(anchor="w")
         self._balken = tk.Canvas(k, height=24, bg="white", highlightthickness=0)
         self._balken.pack(fill="x", pady=(10, 2))
+        # Bei jeder Größenänderung des Fensters neu zeichnen, sonst behält der Balken seine Startbreite
+        self._balken.bind("<Configure>", lambda _e: self._daten and self._zeichne_balken(self._daten))
         self._ects_text = tk.Label(k, bg="white", font=(SCHRIFT, 11, "bold"))
         self._ects_text.pack()
         self._ects_details = tk.Label(k, bg="white", font=(SCHRIFT, 9), justify="left")
@@ -142,6 +144,7 @@ class DashboardView:
         self._schnitt.pack(pady=(4, 0))
         self._skala = tk.Canvas(k, height=34, bg="white", highlightthickness=0)
         self._skala.pack(fill="x")
+        self._skala.bind("<Configure>", lambda _e: self._daten and self._zeichne_skala(self._daten))
         self._benoetigt = tk.Label(k, bg="white", font=(SCHRIFT, 10), justify="left", padx=8, pady=6)
         self._benoetigt.pack(fill="x", pady=(8, 0))
 
@@ -175,8 +178,8 @@ class DashboardView:
         self._zeige_notenziel(daten)
         self._zeige_status(daten)
         self._fuelle_modulliste()
-        # Canvas-Breiten stehen erst nach dem ersten Zeichnen fest
-        self._fenster.after(50, lambda: (self._zeichne_balken(daten), self._zeichne_skala(daten)))
+        self._zeichne_balken(daten)
+        self._zeichne_skala(daten)
 
     def _setze_ampel(self, canvas: tk.Canvas, ampel: Ampel | None) -> None:
         canvas.delete("all")

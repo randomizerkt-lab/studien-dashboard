@@ -1,0 +1,545 @@
+{
+  "student": {
+    "name": "Studierender (anonymisiert)",
+    "matrikelnummer": "nicht angegeben"
+  },
+  "studiengang": {
+    "bezeichnung": "Cyber Security",
+    "abschluss": "B.Sc.",
+    "gesamt_ects": 180,
+    "studienbeginn": "2025-10-13"
+  },
+  "ziele": [
+    {
+      "typ": "Zeitziel",
+      "bezeichnung": "Abschluss bis 31.03.2027",
+      "zieldatum": "2027-03-31"
+    },
+    {
+      "typ": "Notenziel",
+      "bezeichnung": "Notenschnitt höchstens 2,0",
+      "zielnote": 2.0
+    }
+  ],
+  "semester": [
+    {
+      "bezeichnung": "WS 2025/26",
+      "beginn": "2025-10-01",
+      "ende": "2026-03-31",
+      "module": [
+        {
+          "kuerzel": "DLBWIRITT01",
+          "titel": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2025-10-23"
+            }
+          ]
+        },
+        {
+          "kuerzel": "IMT101",
+          "titel": "Mathematik Grundlagen I",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "ANERKANNT",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2025-10-23"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBSG01",
+          "titel": "Studium Generale I",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2025-10-23"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBSG02",
+          "titel": "Studium Generale II",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2025-10-23"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBISIC01",
+          "titel": "Einführung in Datenschutz und IT-Sicherheit",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.0,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-02-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bezeichnung": "SS 2026",
+      "beginn": "2026-04-01",
+      "ende": "2026-09-30",
+      "module": [
+        {
+          "kuerzel": "DLBDSSPDS01_D",
+          "titel": "Statistik - Wahrscheinlichkeit und deskriptive Statistik",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-04-06"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBIBRVS01",
+          "titel": "Betriebssysteme, Rechnernetze und verteilte Systeme",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.0,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-04-21"
+            }
+          ]
+        },
+        {
+          "kuerzel": "IREN01",
+          "titel": "Requirements Engineering",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-04-24"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEESE01_D",
+          "titel": "Social Engineering und Insider Threats",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-06"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSESPB01_D",
+          "titel": "Grundzüge des System-Pentestings",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-08"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEEISC01_D",
+          "titel": "Technische und betriebliche IT-Sicherheitskonzeptionen",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-12"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBITIML01",
+          "titel": "Theoretische Informatik und Mathematische Logik",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-17"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEISS01_D",
+          "titel": "Standards der Informationssicherheit",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-21"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBISIC02-01",
+          "titel": "Kryptografische Verfahren",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.0,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-05-27"
+            }
+          ]
+        },
+        {
+          "kuerzel": "IDBS01",
+          "titel": "Datenmodellierung und Datenbanksysteme",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBDSIPWP01_D",
+          "titel": "Einführung in die Programmierung mit Python",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-09"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEEFT01_D",
+          "titel": "Threat Modeling",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-11"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEINF01_D",
+          "titel": "Einführung in die Netzwerkforensik",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBWPKUM01",
+          "titel": "Konfliktmanagement und Mediation",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.0,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBIHK01",
+          "titel": "Interkulturelle und ethische Handlungskompetenzen",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-22"
+            }
+          ]
+        },
+        {
+          "kuerzel": "IWBI01",
+          "titel": "Business Intelligence",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 3.0,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEDCSW01_D",
+          "titel": "DevSecOps und gängige Software-Schwachstellen",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "HAUSARBEIT",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 2.3,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSSCTCS01_D",
+          "titel": "Seminar: Aktuelle Themen in Computer Science",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "SEMINARARBEIT",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.3,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-09-12"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEHSF01_D",
+          "titel": "Host- und Softwareforensik",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "KLAUSUR",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-09-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bezeichnung": "WS 2026/27",
+      "beginn": "2026-10-01",
+      "ende": "2027-03-31",
+      "module": [
+        {
+          "kuerzel": "DLBKA01",
+          "titel": "Kollaboratives Arbeiten",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "FACHPRAESENTATION",
+              "ects_anteil": 5,
+              "status": "BEWERTET",
+              "note": 1.7,
+              "einreichungsdatum": null,
+              "bewertungsdatum": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEEFT02_D",
+          "titel": "Projekt: Threat Modeling",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PROJEKTBERICHT",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEESE02_D",
+          "titel": "Projekt: Social Engineering",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PROJEKTPRAESENTATION",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEEISC02_D",
+          "titel": "Projekt: Einsatz und Konfiguration von SIEM-Systemen",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PROJEKTBERICHT",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBPKIEKPT01-01",
+          "titel": "Projekt: AI Fluency - Einführung in die generative KI",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PORTFOLIO",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBKPSIKO01",
+          "titel": "Interaktion und Kommunikation in Organisationen",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "WORKBOOK",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBCSEEMT02_D",
+          "titel": "Softwarearchitektur mobiler Geräte",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "NICHT_ERFASST",
+              "ects_anteil": 5,
+              "status": "EINGEREICHT",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBDBAPM01",
+          "titel": "Agiles Projektmanagement",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PORTFOLIO",
+              "ects_anteil": 5,
+              "status": "OFFEN",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBMINPAPCC01",
+          "titel": "Projekt: Allgemeine Programmierung mit C/C++",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PORTFOLIO",
+              "ects_anteil": 5,
+              "status": "OFFEN",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "DLBDSOOFPP01_D",
+          "titel": "Objektorientierte und funktionale Programmierung mit Python",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "PORTFOLIO",
+              "ects_anteil": 5,
+              "status": "OFFEN",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        },
+        {
+          "kuerzel": "BBAK",
+          "titel": "Bachelorarbeit und Kolloquium (BBAK01, BBAK02)",
+          "pruefungsleistungen": [
+            {
+              "pruefungsform": "BACHELORARBEIT",
+              "ects_anteil": 9,
+              "status": "OFFEN",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            },
+            {
+              "pruefungsform": "KOLLOQUIUM",
+              "ects_anteil": 1,
+              "status": "OFFEN",
+              "note": null,
+              "einreichungsdatum": null,
+              "bewertungsdatum": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
